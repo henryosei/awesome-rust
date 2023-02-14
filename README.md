@@ -1455,7 +1455,6 @@ See also [Are we game yet?](https://arewegameyet.rs)
   * [softdevteam/grmtools](https://github.com/softdevteam/grmtools/) - A LR parser with better error correction
   * [tafia/calamine](https://github.com/tafia/calamine) - An Excel/OpenDocument Spreadsheets file reader/deserializer, in pure Rust. [![Build Status](https://api.travis-ci.org/freestrings/jsonpath.svg?branch=master)
  
- 
 ### Peripherals
 
 * Serial Port
